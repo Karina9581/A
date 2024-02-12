@@ -7,7 +7,7 @@
     <title>Магазин пончиков</title>
     <div style="text-align: center">
     <h3 style="color: red">Мир пончиков</h3>
-    <img src = '/uploads/2023/02/donut.png' width = '300px' height="300px"/>
+    <img src = '/uploads/2023/02/donut.png' width = '350px' height="250px"/>
     </div>
 </head>
 <style>
