@@ -6,7 +6,7 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>Магазин пончиков</title>
     <div style="text-align: center">
-    <h3 style="color: brown">Мир пончиков</h3>
+    <h3 style="color: red">Мир пончиков</h3>
     <img src = '/uploads/2023/02/donut.png' width = '300px' height="300px"/>
     </div>
 </head>
